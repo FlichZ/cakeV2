@@ -1,0 +1,15 @@
+C:\P50-2-21\OAIP Sophia\cake\cake\bin\Debug\net6.0\cake.exe
+C:\P50-2-21\OAIP Sophia\cake\cake\bin\Debug\net6.0\cake.deps.json
+C:\P50-2-21\OAIP Sophia\cake\cake\bin\Debug\net6.0\cake.runtimeconfig.json
+C:\P50-2-21\OAIP Sophia\cake\cake\bin\Debug\net6.0\cake.dll
+C:\P50-2-21\OAIP Sophia\cake\cake\bin\Debug\net6.0\cake.pdb
+C:\P50-2-21\OAIP Sophia\cake\cake\obj\Debug\net6.0\cake.csproj.AssemblyReference.cache
+C:\P50-2-21\OAIP Sophia\cake\cake\obj\Debug\net6.0\cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\P50-2-21\OAIP Sophia\cake\cake\obj\Debug\net6.0\cake.AssemblyInfoInputs.cache
+C:\P50-2-21\OAIP Sophia\cake\cake\obj\Debug\net6.0\cake.AssemblyInfo.cs
+C:\P50-2-21\OAIP Sophia\cake\cake\obj\Debug\net6.0\cake.csproj.CoreCompileInputs.cache
+C:\P50-2-21\OAIP Sophia\cake\cake\obj\Debug\net6.0\cake.dll
+C:\P50-2-21\OAIP Sophia\cake\cake\obj\Debug\net6.0\refint\cake.dll
+C:\P50-2-21\OAIP Sophia\cake\cake\obj\Debug\net6.0\cake.pdb
+C:\P50-2-21\OAIP Sophia\cake\cake\obj\Debug\net6.0\cake.genruntimeconfig.cache
+C:\P50-2-21\OAIP Sophia\cake\cake\obj\Debug\net6.0\ref\cake.dll
